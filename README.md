@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Hind+Siliguri&weight=700&size=28&pause=1000&color=0E7C66&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Robin+%F0%9F%91%8B;Web+%26+Android+Developer;From+Bangladesh" alt="Typing intro" />
 
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/robinwebc/robinwebc/main/assets/robin.jpg&w=320&h=320&fit=cover&mask=circle" width="160" height="160" alt="Robin" />
+
 ### 🇧🇩 Web & Android developer from Bangladesh
 
 [![Website](https://img.shields.io/badge/Website-robinwebc.github.io-0E7C66?style=for-the-badge&logo=googlechrome&logoColor=white)](https://robinwebc.github.io)
